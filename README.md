@@ -5,15 +5,15 @@ A responsive and interactive web app that generates random pieces of life advice
 
 ## ✅ Features
 
--🎲 Fetches random advice from a public API with each button click
+- 🎲 Fetches random advice from a public API with each button click
 
--🚀 Built using modern React functional components and hooks.
+- 🚀 Built using modern React functional components and hooks.
 
--🖥️ Clean, minimalist design with a responsive layout.
+- 🖥️ Clean, minimalist design with a responsive layout.
 
--🔁 Real-time API interaction using fetch() and async/await.
+- 🔁 Real-time API interaction using fetch() and async/await.
 
--💬 Displays advice in dynamic UI containers with smooth styling.
+- 💬 Displays advice in dynamic UI containers with smooth styling.
 
 ---
 
